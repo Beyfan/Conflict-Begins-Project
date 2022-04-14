@@ -8,11 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is the transcript for the radio show. Scroll down to see the audio of the video.
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 -Relations between Mexico and the United States were not friendly. President James K. Polk was determined to gain
  the California and New Mexico territories from Mexico. When Mexico refused to sell the lands, he planned to gain them through war.
