@@ -21,6 +21,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+In California an uprising was formingh
+
 
 [Link](url) and ![Image](src)
 ```
