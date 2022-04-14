@@ -6,8 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Transcript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Here is the transcript for the radio show. Scroll down to see the audio of the video.
 ```markdown
 Syntax highlighted code block
 
