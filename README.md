@@ -8,8 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is the transcript for the radio show. Scroll down to see the audio of the video.
 ```markdown
-
-
 Relations between Mexico and the United States were not 
 friendly. President James K. Polk was determined to gain
 the California and New Mexico territories from Mexico. 
@@ -17,13 +15,7 @@ When Mexico refused to sell the lands, he planned to
 gain them through war. To justify a war, he wanted to
 make Mexico Strike first.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
