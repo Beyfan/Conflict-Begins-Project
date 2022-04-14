@@ -10,9 +10,12 @@ Here is the transcript for the radio show. Scroll down to see the audio of the v
 ```markdown
 
 
--Relations between Mexico and the United States were not friendly. President James K. Polk was determined to gain
- the California and New Mexico territories from Mexico. When Mexico refused to sell the lands, he planned to gain them through war.
- To justify a war, he wanted to make Mexico Strike first.
+Relations between Mexico and the United States were not 
+friendly. President James K. Polk was determined to gain
+the California and New Mexico territories from Mexico. 
+When Mexico refused to sell the lands, he planned to 
+gain them through war. To justify a war, he wanted to
+make Mexico Strike first.
 
 1. Numbered
 2. List
