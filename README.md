@@ -14,14 +14,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Different countries wanted different things
-- 
+-Relations between Mexico and the United States were not friendly. President James K. Polk was determined to gain
+ the California and New Mexico territories from Mexico. When Mexico refused to sell the lands, he planned to gain them through war.
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
-In California an uprising was formingh
 
 
 [Link](url) and ![Image](src)
