@@ -1,6 +1,6 @@
 ## Welcome To Our Project!
 
-You can use the [editor on GitHub](https://github.com/Beyfan/beyfan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the project made by Chase, Eric, Jorge, and David
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
